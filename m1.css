@@ -1,0 +1,14 @@
+table,th,td
+			{
+				border:3px solid white;
+				width:80%;
+			}
+		.th,td
+			{
+				padding:10px;
+				align-text:left;
+			}
+		tr:nth-child(even)
+			{
+				background-color:gray;
+			}
